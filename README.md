@@ -100,7 +100,7 @@ Para lograrlo, los datos deben estar no solo limpios, sino también ordenados y 
 ## Instrucciones
 
 1. ##### Software necesarios
-- Instalar [Python](https://www.python.org/downloads/release/python-395/) 3.9.5, Al instalar Python hay que marcar la opción Add to Path ![img](python395install.png)
+- Instalar [Python](https://www.python.org/downloads/release/python-395/) 3.9.5, Al instalar Python hay que marcar la opción Add to Path ![img](src/visualization/python395install.png)
 - Instalar [VisualStudio Code](https://code.visualstudio.com/Download)
 - Instalar [Git](https://gitforwindows.org/)
 
